@@ -1,10 +1,12 @@
 00#AUTH#URI######: 0499AdibNatanzi
-10#AUTH#ISM####AR: Fulān
-10#AUTH#KUNYA##AR: Abū Fulān, Abū Fulānaŧ
-10#AUTH#LAQAB##AR: Fulān al-dīn, Fulān al-dawlaŧ
-10#AUTH#NASAB##AR: b. Fulān b. Fulān b. Fulān b. Fulān
-10#AUTH#NISBA##AR: al-Fulānī, al-Fāʿil, al-Fulānī, al-Mufaʿʿil
-10#AUTH#SHUHRA#AR: Ibn Fulān al-Fulānī
+10#AUTH#ISM####AR: Ḥusayn
+10#AUTH#KUNYA##AR: Abū ʿAbd Allāh
+10#AUTH#LAQAB##AR: Badīʿal-zamān
+10#AUTH#NASAB##AR: b. Ibrāhīm b. Aḥmad
+10#AUTH#NISBA##AR: al-Naṭanzī, al-ʿIrāqī
+10#AUTH#NISBA##FA: Naṭanzī, ʿIrāqī
+10#AUTH#SHUHRA#AR: al-Adīb al-Naṭanzī
+10#AUTH#SHUHRA#FA: Adīb Naṭanzī
 20#AUTH#BORN#####: URIs from Althurayya, comma separated
 20#AUTH#DIED#####: URIs from Althurayya, comma separated
 20#AUTH#RESIDED##: URIs from Althurayya, comma separated
